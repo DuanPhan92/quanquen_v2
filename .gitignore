@@ -1,0 +1,6 @@
+# Ignore all files and directories by default
+*
+
+# Allow tracking of README.md and this .gitignore file
+!README.md
+!.gitignore
